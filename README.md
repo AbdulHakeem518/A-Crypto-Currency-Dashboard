@@ -1,9 +1,3 @@
-## 🖼️ Visuals
-</br>
-<a href="#"><img src="https://i.ibb.co/RQ5d2Bz/Screenshot-1.png"></a> </br>
-<a href="#"><img src="https://i.ibb.co/Fx1kJrG/Screenshot-2.png"></a></br>
-<a href="#"><img src="https://i.ibb.co/xMS0ZbY/Screenshot-3.png"></a>
-
 ## 🚀 Getting Started</br>
 
 # Step 1 </br>
