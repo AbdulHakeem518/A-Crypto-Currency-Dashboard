@@ -1,25 +1,22 @@
-## Pictures
+## 🖼️ Pictures
 </br>
 <a href="#"><img src="https://i.ibb.co/RQ5d2Bz/Screenshot-1.png"></a> </br>
 <a href="#"><img src="https://i.ibb.co/Fx1kJrG/Screenshot-2.png"></a></br>
 <a href="#"><img src="https://i.ibb.co/xMS0ZbY/Screenshot-3.png"></a>
 
-
-
-
-## How to can use it</br>
+## 🚀 How to Use It</br>
 
 # Step i </br>
---> Clone this repo using git clone </br>
+➡️ Clone this repository using `git clone` </br>
 
 # Step ii</br>
 
---> Open project 
---> "npm i" to save all dependencies</br>
+➡️ Open the project </br>
+➡️ Run `npm i` to install all dependencies</br>
 
 # Step iii</br>
 
---> "npm run dev" then enjoy... </br>
+➡️ Run `npm run dev` and enjoy... </br>
 
 # Step iv</br>
---> 😊 *Give the star if you like this* 😊</br>
+--> 😊 Give the star if you like this 😊</br>
